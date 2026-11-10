@@ -5,3 +5,10 @@ secret_key.txt
 __pycache__/
 *.pyc
 ssh_keys/
+sk.txt
+secret_key.txt
+.env
+.env.*
+ssh_keys/
+__pycache__/
+*.pyc
