@@ -1,0 +1,7 @@
+sk.txt
+secret_key.txt
+.env
+.env.*
+__pycache__/
+*.pyc
+ssh_keys/
